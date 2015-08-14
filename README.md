@@ -1,7 +1,6 @@
 # Boston-green-space
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This app attempts to build an Ember app entirely consuming CartoDB as a backend. Implements [Ember-CartoDB-Adapter](https://github.com/cspanring/ember-cartodb-adapter).
 
 ## Prerequisites
 
