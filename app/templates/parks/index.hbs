@@ -1,0 +1,6 @@
+<ul>
+{{#each model as |park|}}
+	<li>{{#link-to 'park' park}} {{park.name}} {{/link-to}}</li>
+{{/each}}
+</ul>
+{{outlet}}
